@@ -10,7 +10,7 @@
 
 **DEMO:** [Laravel File Manager](http://file-manager.webmai.ru/)
 
-**Vue.js Frontend:** [alexusmai/vue-laravel-file-manager](https://github.com/alexusmai/vue-laravel-file-manager)
+**Vue.JS Frontend:** [alexusmai/vue-laravel-file-manager](https://github.com/alexusmai/vue-laravel-file-manager)
 
 **--- Laravel 7 support added but not fully tested!! ---**
 
